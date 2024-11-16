@@ -1,0 +1,18 @@
+# MacOS file
+**/.DS_Store
+
+# Python
+*.pyc
+__pycache__/
+
+# Virtual environment
+.venv/
+
+# IDE configuration
+.idea/
+
+# Sensitive files
+firebase-cert.json
+
+# Logs
+*.log
